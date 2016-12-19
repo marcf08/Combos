@@ -17,5 +17,5 @@ javac Comb.java
 
 Use with:
 ```
-java Combo <word>
+java Comb <word>
 ```
